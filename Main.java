@@ -28,8 +28,7 @@ public class Main {
                 break;
             } else {
                 tentativas--;
-                System.out.printf("User ou senha incorreta. Você tem %d tentativas restantes.\n", tentativas);
-                System.out.println("=============================================================");
+                System.out.printf("User ou senha incorreta. Você tem %d tentativas restantes.\n", tentativas);
             }
         }
 
